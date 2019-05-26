@@ -6,3 +6,4 @@ def concat(*args, sep="/"):
 
 print(concat("earth", "mars", "venus"))
 print(concat("earth", "mars", "venus", sep="."))
+
